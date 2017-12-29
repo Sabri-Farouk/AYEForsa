@@ -1,0 +1,3 @@
+rootProject.name = 'AYEForsa'
+
+include ':app'
